@@ -1,0 +1,3 @@
+/Users/appletest/Documents/CP/GFG/lambda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/appletest/Documents/CP/GFG/lambda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/appletest/Documents/CP/GFG/lambda/cmake-build-debug/CMakeFiles/lambda.dir
